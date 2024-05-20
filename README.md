@@ -78,7 +78,7 @@ Create the `dist` directory and the necessary files (`index.html` and `degen.jpe
       ```
       YourProject/
       ├── dist/
-      │   ├── app.html
+      │   ├── index.html
       │   └── degen.jpeg
       ```
 
