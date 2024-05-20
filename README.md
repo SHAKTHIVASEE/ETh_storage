@@ -17,7 +17,7 @@ First, install the ethfs-cli tool:
 npm i -g ethfs-cli
 ```
 
-## Step 2: Create a FlatDirectory Contract
+## Step 2: Create a FlatDirectory Contract & save it
 
 Create a FlatDirectory contract to store the files:
 
