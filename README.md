@@ -33,7 +33,7 @@ FlatDirectory Address: 0x49EDFB27a463545337487D39a8349760B345F160
 
 ## Step 3: Upload the Application
 
-Create the `dist` directory and the necessary files (`app.html` and `degen.jpeg`). Then, upload the `dist` folder to the FlatDirectory.
+Create the `dist` directory and the necessary files (`index.html` and `degen.jpeg`). Then, upload the `dist` folder to the FlatDirectory.
 
 ### Create the `dist` Directory and Files
 
