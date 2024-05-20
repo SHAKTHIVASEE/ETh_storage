@@ -43,7 +43,7 @@ Create the `dist` directory and the necessary files (`app.html` and `degen.jpeg`
       mkdir dist
       ```
 
-2. **Create `app.html` File**:
+2. **Create `index.html` File**:
     - Create a new HTML file named `app.html` in the `dist` directory with the following content:
       ```html
       <!DOCTYPE html>
