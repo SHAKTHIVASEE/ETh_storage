@@ -1,5 +1,4 @@
-# ETh_storage
-Phase02
+# ETh_storage Phase02
 
 
 # How to Build and Deploy a Simple Unstoppable dApp on Ethereum
@@ -98,8 +97,8 @@ npm i -g eth-blob-uploader
 Then, upload the files using BLOBs:
 
 ```sh
-eth-blob-uploader -r <Sepolia RPC> -p <private-key> -f dist/app.html -t <any-address>
-eth-blob-uploader -r <Sepolia RPC> -p <private-key> -f dist/degen.jpeg -t <any-address>
+eth-blob-uploader -r https://small-divine-liquid.ethereum-sepolia.quiknode.pro/0ed67157b8f803feee07b62dba90f4b6aff75e4e/ -p <private-key> -f dist/app.html -t <any-address>
+eth-blob-uploader -r https://small-divine-liquid.ethereum-sepolia.quiknode.pro/0ed67157b8f803feee07b62dba90f4b6aff75e4e/ -p <private-key> -f dist/degen.jpeg -t <any-address>
 ```
 
 ## Step 5: Use EthStorage to Store the BLOB Permanently
