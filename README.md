@@ -1,5 +1,11 @@
 # ETh_storage Phase02
 
+sudo apt update
+
+curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+
+sudo apt-get install -y nodejs
+
 
 # How to Build and Deploy a Simple Unstoppable dApp on Ethereum
 
