@@ -2,11 +2,11 @@
 
 ## Step 0:  **Install tool**
 
-1. sudo apt update
+ sudo apt update
 
-2. curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+ curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 
-3. sudo apt-get install -y nodejs
+ sudo apt-get install -y nodejs
 
 
 # How to Build and Deploy a Simple Unstoppable dApp on Ethereum
