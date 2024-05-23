@@ -1,6 +1,6 @@
 # ETh_storage Phase02
 
-## Step 0:  INSTALL TOOL 
+## Step 0:  **Install tool**
 
 1. sudo apt update
 
