@@ -130,7 +130,7 @@ ethfs-cli create -p <private-key> -c 11155111
 Then, upload the application using EthStorage:
 
 ```sh
-ethfs-cli upload -f dist -a <flat-directory-address> -c 11155111 -p <private-key> -t 2
+ethfs-cli upload -f dist -a <last-created-flat-directory-address> -c 11155111 -p <private-key> -t 2
 ```
 
 This method requires only two transactions and significantly reduces the cost.
