@@ -1,5 +1,7 @@
 # ETh_storage Phase02
 
+FIRST INSTALL TOOL BELOW
+
 sudo apt update
 
 curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
