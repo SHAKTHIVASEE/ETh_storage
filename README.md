@@ -51,7 +51,7 @@ Create the `dist` directory and the necessary files (`index.html` and `degen.jpe
       mkdir dist
       ```
 
-2. **Create `index.html` File**:
+2. **Create `app.html` File**:
     - Create a new HTML file named `app.html` in the `dist` directory with the following content:
       ```html
       <!DOCTYPE html>
